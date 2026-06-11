@@ -29,9 +29,7 @@ android {
     namespace = "domilopment.apkextractor"
 
     compileSdk {
-        version = release(36) {
-            minorApiLevel = 1
-        }
+        version = release(37)
     }
 
     defaultConfig {
